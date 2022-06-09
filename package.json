@@ -1,5 +1,5 @@
 {
-  "name": "ddosguard-bypass",
+  "name": "@db8bot/ddosguard-bypass",
   "version": "1.0.0",
   "description": "Modified &amp; republished package to bypass the Russian Internet infrastructure company DDoS-Guard's DDoS protection that prevents web-scraping via GET requests. For original library see Readme.",
   "main": "index.js",
@@ -20,5 +20,6 @@
     "axios": "^0.27.2",
     "random-ua": "^0.0.6",
     "set-cookie-parser": "^2.5.0"
-  }
+  },
+  "devDependencies": {}
 }
