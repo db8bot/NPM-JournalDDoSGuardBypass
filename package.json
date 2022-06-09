@@ -1,0 +1,24 @@
+{
+  "name": "ddosguard-bypass",
+  "version": "1.0.0",
+  "description": "Modified &amp; republished package to bypass the Russian Internet infrastructure company DDoS-Guard's DDoS protection that prevents web-scraping via GET requests. For original library see Readme.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/db8bot/Occulation-DDoSGuard-Bypass.git"
+  },
+  "author": "AirFusion45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/db8bot/Occulation-DDoSGuard-Bypass/issues"
+  },
+  "homepage": "https://github.com/db8bot/Occulation-DDoSGuard-Bypass#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "random-ua": "^0.0.6",
+    "set-cookie-parser": "^2.5.0"
+  }
+}
